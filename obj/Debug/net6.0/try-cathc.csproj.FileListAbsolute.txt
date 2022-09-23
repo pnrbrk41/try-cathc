@@ -1,0 +1,15 @@
+C:\Users\Burak\Documents\GitHub\try-cathc\bin\Debug\net6.0\try-cathc.exe
+C:\Users\Burak\Documents\GitHub\try-cathc\bin\Debug\net6.0\try-cathc.deps.json
+C:\Users\Burak\Documents\GitHub\try-cathc\bin\Debug\net6.0\try-cathc.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\try-cathc\bin\Debug\net6.0\try-cathc.dll
+C:\Users\Burak\Documents\GitHub\try-cathc\bin\Debug\net6.0\try-cathc.pdb
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\try-cathc.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\try-cathc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\try-cathc.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\try-cathc.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\try-cathc.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\try-cathc.dll
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\refint\try-cathc.dll
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\try-cathc.pdb
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\try-cathc.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\try-cathc\obj\Debug\net6.0\ref\try-cathc.dll
